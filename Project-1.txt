@@ -1,7 +1,13 @@
-Projek 1
+Projek 1 Kelompok 3
+
+Olah Data Struk Belanja
 
 Fitur
 	- Makanan yang paling banyak dibeli
 	- Pada pukul berapa pembeli terbanyak
-	- Rata-rata pembelian perhari
-	- 
+	- Rata-rata orang berbelanja perhari ke supermarket
+	- Rata-rata jumlah banyak pembelian barang
+	- Rata-rata pendapatan perhari supermarket
+	- Hari-hari yang banyak pembeli
+	- Apakah dampak barang yang memiliki promo?
+	- Rata-rata pecahan uang yang diberikan kepada 		supermarket
