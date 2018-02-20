@@ -16,7 +16,7 @@ public class Coba2ForGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello olleH");
+        System.out.println("Hello >>Ö|Ö<< olleH");
     }
     
 }
