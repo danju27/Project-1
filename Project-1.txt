@@ -1,0 +1,7 @@
+Projek 1
+
+Fitur
+	- Makanan yang paling banyak dibeli
+	- Pada pukul berapa pembeli terbanyak
+	- Rata-rata pembelian perhari
+	- 
