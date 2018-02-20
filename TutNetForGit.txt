@@ -1,0 +1,19 @@
+-Buka NetBeans
+-Bikin Project baru
+-Team --> Git --> Initialize Repository...
+	-set root path
+	-OK
+-Team --> Git --> Clone...
+	-copy URL from gitHub
+	-Next
+	-Finish
+
+-Klik-kanan file.java
+-Git --> Add
+-Git --> Commit...
+-Git --> Remote --> Push
+
+Nanti di pull di Github nya
+
+
+Aweuu~~~
