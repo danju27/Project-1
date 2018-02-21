@@ -3,11 +3,11 @@ dipisah jadi 2 file: - id.dat (string hari, ADT tanggal, string tempat, ADT jam,
 
 /*Contoh Format untuk id.dat*/
 Rabu
-18 2 2018
-22 37
+18 2 2018 // dd mm yy
+22 37 // hh mm
 Ciwastra
 Ubed
-3
+3 // jumlah barang
 Rabu
 18 2 2018
 23 37
@@ -18,8 +18,8 @@ Asep
 /*Contoh Format untuk struk.dat*/
 Kecap abc
 makanan
-5000
-2
+5000 // harga
+2 // quantity
 Batere abc
 alat listrik
 2000
