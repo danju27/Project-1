@@ -1,0 +1,38 @@
+dipisah jadi 2 file: - id.dat (string hari, ADT tanggal, string tempat, ADT jam, string kasir, int jmlBarang)
+		     - struk.dat (string barang, string kategori, int harga, int quantity)
+
+/*Contoh Format untuk id.dat*/
+Rabu
+18 2 2018 // dd mm yy
+22 37 // hh mm
+Ciwastra
+Ubed
+3 // jumlah barang
+Rabu
+18 2 2018
+23 37
+Ciwastra
+Asep
+2
+
+/*Contoh Format untuk struk.dat*/
+Kecap abc
+makanan
+5000 // harga
+2 // quantity
+Batere abc
+alat listrik
+2000
+3
+Kopi abc
+Minuman
+1500
+4
+Beng beng
+Makanan
+2000
+2
+Pensil inul
+Alat tulis
+1000
+3
